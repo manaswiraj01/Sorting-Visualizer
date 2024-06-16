@@ -1,0 +1,1 @@
+A sorting visualizer graphically demonstrates sorting algorithms, helping users understand their processes through real-time visualization.
