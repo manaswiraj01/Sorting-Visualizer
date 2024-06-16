@@ -1,4 +1,4 @@
-A sorting visualizer is a tool that graphically represents the process of sorting an array using various sorting algorithms. This helps in understanding how each algorithm works step-by-step. Here is a brief description of the sorting algorithms your visualizer covers:
+A sorting visualizer is a tool that graphically represents the process of sorting an array using various sorting algorithms. This helps in understanding how each algorithm works step-by-step. Here is a brief description of the sorting algorithms this visualizer covers:
 
 1. Bubble Sort: Repeatedly compares adjacent elements and swaps them if they are in the wrong order. This process is repeated until the array is sorted. It's simple but inefficient for large datasets.
 
